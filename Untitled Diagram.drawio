@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T02:46:33.640Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="0z2VBhvwgNkP9q53ErPc" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T02:47:14.020Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="F_56zzTVEiFbKmNR3yQf" version="20.1.1" type="github">
   <diagram id="77WDoGPpaBxjXQUIE7XZ" name="Page-1">
     <mxGraphModel dx="1381" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,6 +59,9 @@
         </mxCell>
         <mxCell id="OLApJ6iFo3VQvdXCtHPA-17" value="获取vod回调：&lt;br&gt;1、fileid&lt;br&gt;2、url" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="260" y="130" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OLApJ6iFo3VQvdXCtHPA-18" value="SCF内网拉取文件到函数进行转码处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="400" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
